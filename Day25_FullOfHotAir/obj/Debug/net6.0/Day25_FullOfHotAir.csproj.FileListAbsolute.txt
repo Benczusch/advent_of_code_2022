@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\Day25_FullOfHotAir.exe
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\Day25_FullOfHotAir.deps.json
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\Day25_FullOfHotAir.runtimeconfig.json
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\Day25_FullOfHotAir.dll
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\ref\Day25_FullOfHotAir.dll
+D:\AdventOfCode_22\Day25_FullOfHotAir\bin\Debug\net6.0\Day25_FullOfHotAir.pdb
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.AssemblyInfo.cs
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.dll
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\ref\Day25_FullOfHotAir.dll
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.pdb
+D:\AdventOfCode_22\Day25_FullOfHotAir\obj\Debug\net6.0\Day25_FullOfHotAir.genruntimeconfig.cache

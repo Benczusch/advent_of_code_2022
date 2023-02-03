@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\Day2_RockPaperScissors.exe
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\Day2_RockPaperScissors.deps.json
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\Day2_RockPaperScissors.runtimeconfig.json
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\Day2_RockPaperScissors.dll
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\ref\Day2_RockPaperScissors.dll
+D:\AdventOfCode_22\Day2_RockPaperScissors\bin\Debug\net6.0\Day2_RockPaperScissors.pdb
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.AssemblyInfo.cs
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.dll
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\ref\Day2_RockPaperScissors.dll
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.pdb
+D:\AdventOfCode_22\Day2_RockPaperScissors\obj\Debug\net6.0\Day2_RockPaperScissors.genruntimeconfig.cache

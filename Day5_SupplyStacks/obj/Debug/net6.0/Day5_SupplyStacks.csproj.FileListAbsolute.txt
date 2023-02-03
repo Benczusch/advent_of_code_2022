@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\Day5_SupplyStacks.exe
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\Day5_SupplyStacks.deps.json
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\Day5_SupplyStacks.runtimeconfig.json
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\Day5_SupplyStacks.dll
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\ref\Day5_SupplyStacks.dll
+D:\AdventOfCode_22\Day5_SupplyStacks\bin\Debug\net6.0\Day5_SupplyStacks.pdb
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.AssemblyInfo.cs
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.dll
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\ref\Day5_SupplyStacks.dll
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.pdb
+D:\AdventOfCode_22\Day5_SupplyStacks\obj\Debug\net6.0\Day5_SupplyStacks.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee33e2b1-4ef1-446a-879f-351b2c65d091": {
+      "ProjectGuid": "ee33e2b1-4ef1-446a-879f-351b2c65d091",
+      "DisplayName": "Day10_CathodeRayTube",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

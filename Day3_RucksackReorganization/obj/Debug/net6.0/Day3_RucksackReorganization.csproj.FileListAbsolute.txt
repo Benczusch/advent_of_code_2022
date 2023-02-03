@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\Day3_RucksackReorganization.exe
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\Day3_RucksackReorganization.deps.json
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\Day3_RucksackReorganization.runtimeconfig.json
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\Day3_RucksackReorganization.dll
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\ref\Day3_RucksackReorganization.dll
+D:\AdventOfCode_22\Day3_RucksackReorganization\bin\Debug\net6.0\Day3_RucksackReorganization.pdb
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.AssemblyInfo.cs
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.dll
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\ref\Day3_RucksackReorganization.dll
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.pdb
+D:\AdventOfCode_22\Day3_RucksackReorganization\obj\Debug\net6.0\Day3_RucksackReorganization.genruntimeconfig.cache

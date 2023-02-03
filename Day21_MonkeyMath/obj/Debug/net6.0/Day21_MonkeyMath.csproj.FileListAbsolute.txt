@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\Day21_MonkeyMath.exe
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\Day21_MonkeyMath.deps.json
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\Day21_MonkeyMath.runtimeconfig.json
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\Day21_MonkeyMath.dll
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\ref\Day21_MonkeyMath.dll
+D:\AdventOfCode_22\Day21_MonkeyMath\bin\Debug\net6.0\Day21_MonkeyMath.pdb
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.AssemblyInfo.cs
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.dll
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\ref\Day21_MonkeyMath.dll
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.pdb
+D:\AdventOfCode_22\Day21_MonkeyMath\obj\Debug\net6.0\Day21_MonkeyMath.genruntimeconfig.cache

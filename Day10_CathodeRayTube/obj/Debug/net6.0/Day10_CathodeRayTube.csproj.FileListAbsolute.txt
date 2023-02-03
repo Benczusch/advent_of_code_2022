@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\Day10_CathodeRayTube.exe
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\Day10_CathodeRayTube.deps.json
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\Day10_CathodeRayTube.runtimeconfig.json
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\Day10_CathodeRayTube.dll
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\ref\Day10_CathodeRayTube.dll
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\Day10_CathodeRayTube.pdb
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.AssemblyInfo.cs
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.dll
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\ref\Day10_CathodeRayTube.dll
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.pdb
+D:\AdventOfCode_22\Day10_CathodeRayTube\obj\Debug\net6.0\Day10_CathodeRayTube.genruntimeconfig.cache
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day10_CathodeRayTube\bin\Debug\net6.0\input.txt

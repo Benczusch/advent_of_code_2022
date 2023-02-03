@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\Day18_BoilingBoulders.exe
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\Day18_BoilingBoulders.deps.json
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\Day18_BoilingBoulders.runtimeconfig.json
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\Day18_BoilingBoulders.dll
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\ref\Day18_BoilingBoulders.dll
+D:\AdventOfCode_22\Day18_BoilingBoulders\bin\Debug\net6.0\Day18_BoilingBoulders.pdb
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.AssemblyInfo.cs
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.dll
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\ref\Day18_BoilingBoulders.dll
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.pdb
+D:\AdventOfCode_22\Day18_BoilingBoulders\obj\Debug\net6.0\Day18_BoilingBoulders.genruntimeconfig.cache

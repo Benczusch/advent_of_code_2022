@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\Day15_ProboscideaVolcanium.exe
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\input.txt
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\testInput.txt
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\Day15_ProboscideaVolcanium.deps.json
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\Day15_ProboscideaVolcanium.runtimeconfig.json
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\Day15_ProboscideaVolcanium.dll
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\ref\Day15_ProboscideaVolcanium.dll
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\bin\Release\net6.0\Day15_ProboscideaVolcanium.pdb
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.AssemblyInfo.cs
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.dll
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\ref\Day15_ProboscideaVolcanium.dll
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.pdb
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.genruntimeconfig.cache
+D:\AdventOfCode_22\Day15_ProboscideaVolcanium\obj\Release\net6.0\Day15_ProboscideaVolcanium.csproj.AssemblyReference.cache

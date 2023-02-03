@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day3_RucksackReorganization", "Day3_RucksackReorganization.csproj", "{14242B49-AA98-4845-A0D0-3C6CC6D649BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14242B49-AA98-4845-A0D0-3C6CC6D649BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14242B49-AA98-4845-A0D0-3C6CC6D649BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14242B49-AA98-4845-A0D0-3C6CC6D649BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14242B49-AA98-4845-A0D0-3C6CC6D649BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9BAAC1-F2C2-4586-86F4-335BD05B2708}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd8a1bca-186e-40b4-b67a-7de665a2eaf1": {
+      "ProjectGuid": "dd8a1bca-186e-40b4-b67a-7de665a2eaf1",
+      "DisplayName": "AdventOfCodeTemplate",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

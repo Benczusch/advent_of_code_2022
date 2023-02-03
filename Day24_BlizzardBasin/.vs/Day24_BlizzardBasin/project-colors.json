@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6b05936f-2cb6-4df2-8993-f82e38970c19": {
+      "ProjectGuid": "6b05936f-2cb6-4df2-8993-f82e38970c19",
+      "DisplayName": "Day24_BlizzardBasin",
+      "ColorIndex": 0
+    },
+    "3cd81ba3-be51-44ce-b58a-2fe1a09ee522": {
+      "ProjectGuid": "3cd81ba3-be51-44ce-b58a-2fe1a09ee522",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

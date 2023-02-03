@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b0f0e631-f706-42d8-a24f-0679aa555dd8": {
+      "ProjectGuid": "b0f0e631-f706-42d8-a24f-0679aa555dd8",
+      "DisplayName": "Day23_UnstableDiffusion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

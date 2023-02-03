@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\Day4_CampCleanup.exe
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\Day4_CampCleanup.deps.json
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\Day4_CampCleanup.runtimeconfig.json
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\Day4_CampCleanup.dll
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\ref\Day4_CampCleanup.dll
+D:\AdventOfCode_22\Day4_CampCleanup\bin\Debug\net6.0\Day4_CampCleanup.pdb
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.AssemblyInfo.cs
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.dll
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\ref\Day4_CampCleanup.dll
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.pdb
+D:\AdventOfCode_22\Day4_CampCleanup\obj\Debug\net6.0\Day4_CampCleanup.genruntimeconfig.cache

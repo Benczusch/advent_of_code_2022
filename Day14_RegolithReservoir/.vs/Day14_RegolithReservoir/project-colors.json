@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86001746-2bc4-4759-8274-4e247e2ef20d": {
+      "ProjectGuid": "86001746-2bc4-4759-8274-4e247e2ef20d",
+      "DisplayName": "Day14_RegolithReservoir",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

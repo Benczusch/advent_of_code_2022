@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\Day19_NotEnoughMinerals.exe
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\Day19_NotEnoughMinerals.deps.json
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\Day19_NotEnoughMinerals.runtimeconfig.json
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\Day19_NotEnoughMinerals.dll
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\ref\Day19_NotEnoughMinerals.dll
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\bin\Debug\net6.0\Day19_NotEnoughMinerals.pdb
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.AssemblyInfo.cs
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.dll
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\ref\Day19_NotEnoughMinerals.dll
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.pdb
+D:\AdventOfCode_22\Day19_NotEnoughMinerals\obj\Debug\net6.0\Day19_NotEnoughMinerals.genruntimeconfig.cache

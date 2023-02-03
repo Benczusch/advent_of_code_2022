@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\Day15_BeaconExclusionZone.exe
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\Day15_BeaconExclusionZone.deps.json
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\Day15_BeaconExclusionZone.runtimeconfig.json
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\Day15_BeaconExclusionZone.dll
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\ref\Day15_BeaconExclusionZone.dll
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\bin\Debug\net6.0\Day15_BeaconExclusionZone.pdb
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.AssemblyInfo.cs
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.dll
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\ref\Day15_BeaconExclusionZone.dll
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.pdb
+D:\AdventOfCode_22\Day15_BeaconExclusionZone\obj\Debug\net6.0\Day15_BeaconExclusionZone.genruntimeconfig.cache

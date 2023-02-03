@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day15_BeaconExclusionZone/1.0.0": {
+        "runtime": {
+          "Day15_BeaconExclusionZone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day15_BeaconExclusionZone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

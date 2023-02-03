@@ -1,0 +1,15 @@
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\Day6_TuningTrouble.exe
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\Day6_TuningTrouble.deps.json
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\Day6_TuningTrouble.runtimeconfig.json
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\Day6_TuningTrouble.dll
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\ref\Day6_TuningTrouble.dll
+D:\AdventOfCode_22\Day6_TuningTrouble\bin\Debug\net6.0\Day6_TuningTrouble.pdb
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.AssemblyInfo.cs
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.dll
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\ref\Day6_TuningTrouble.dll
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.pdb
+D:\AdventOfCode_22\Day6_TuningTrouble\obj\Debug\net6.0\Day6_TuningTrouble.genruntimeconfig.cache

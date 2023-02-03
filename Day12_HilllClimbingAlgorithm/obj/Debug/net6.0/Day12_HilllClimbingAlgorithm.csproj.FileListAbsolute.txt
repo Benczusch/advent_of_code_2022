@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\Day12_HilllClimbingAlgorithm.exe
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\Day12_HilllClimbingAlgorithm.deps.json
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\Day12_HilllClimbingAlgorithm.runtimeconfig.json
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\Day12_HilllClimbingAlgorithm.dll
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\ref\Day12_HilllClimbingAlgorithm.dll
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\bin\Debug\net6.0\Day12_HilllClimbingAlgorithm.pdb
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.AssemblyInfo.cs
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.dll
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\ref\Day12_HilllClimbingAlgorithm.dll
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.pdb
+D:\AdventOfCode_22\Day12_HilllClimbingAlgorithm\obj\Debug\net6.0\Day12_HilllClimbingAlgorithm.genruntimeconfig.cache

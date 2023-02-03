@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\Day13_DistressSignal.exe
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\Day13_DistressSignal.deps.json
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\Day13_DistressSignal.runtimeconfig.json
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\Day13_DistressSignal.dll
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\ref\Day13_DistressSignal.dll
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\Day13_DistressSignal.pdb
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.AssemblyInfo.cs
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.dll
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\ref\Day13_DistressSignal.dll
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.pdb
+D:\AdventOfCode_22\Day13_DistressSignal\obj\Debug\net6.0\Day13_DistressSignal.genruntimeconfig.cache
+D:\AdventOfCode_22\Day13_DistressSignal\bin\Debug\net6.0\input.txt

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day18_BoilingBoulders/1.0.0": {
+        "runtime": {
+          "Day18_BoilingBoulders.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day18_BoilingBoulders/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

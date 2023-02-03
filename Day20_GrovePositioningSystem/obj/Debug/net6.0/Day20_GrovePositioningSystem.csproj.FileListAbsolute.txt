@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\Day20_GrovePositioningSystem.exe
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\Day20_GrovePositioningSystem.deps.json
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\Day20_GrovePositioningSystem.runtimeconfig.json
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\Day20_GrovePositioningSystem.dll
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\ref\Day20_GrovePositioningSystem.dll
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\bin\Debug\net6.0\Day20_GrovePositioningSystem.pdb
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.AssemblyInfo.cs
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.dll
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\ref\Day20_GrovePositioningSystem.dll
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.pdb
+D:\AdventOfCode_22\Day20_GrovePositioningSystem\obj\Debug\net6.0\Day20_GrovePositioningSystem.genruntimeconfig.cache

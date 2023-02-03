@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.AssemblyInfo.cs
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\Day11_MonkeyInTheMiddle.exe
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\Day11_MonkeyInTheMiddle.deps.json
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\Day11_MonkeyInTheMiddle.runtimeconfig.json
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\Day11_MonkeyInTheMiddle.dll
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\ref\Day11_MonkeyInTheMiddle.dll
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\Day11_MonkeyInTheMiddle.pdb
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.dll
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\ref\Day11_MonkeyInTheMiddle.dll
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.pdb
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\obj\Debug\net6.0\Day11_MonkeyInTheMiddle.genruntimeconfig.cache
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day11_MonkeyInTheMiddle\bin\Debug\net6.0\input.txt

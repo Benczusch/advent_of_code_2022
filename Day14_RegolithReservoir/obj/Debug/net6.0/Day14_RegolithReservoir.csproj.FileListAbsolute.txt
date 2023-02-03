@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\Day14_RegolithReservoir.exe
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\Day14_RegolithReservoir.deps.json
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\Day14_RegolithReservoir.runtimeconfig.json
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\Day14_RegolithReservoir.dll
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\ref\Day14_RegolithReservoir.dll
+D:\AdventOfCode_22\Day14_RegolithReservoir\bin\Debug\net6.0\Day14_RegolithReservoir.pdb
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.AssemblyInfo.cs
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.dll
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\ref\Day14_RegolithReservoir.dll
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.pdb
+D:\AdventOfCode_22\Day14_RegolithReservoir\obj\Debug\net6.0\Day14_RegolithReservoir.genruntimeconfig.cache

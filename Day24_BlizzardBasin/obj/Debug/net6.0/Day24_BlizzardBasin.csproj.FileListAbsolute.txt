@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\Day24_BlizzardBasin.exe
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\Day24_BlizzardBasin.deps.json
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\Day24_BlizzardBasin.runtimeconfig.json
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\Day24_BlizzardBasin.dll
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\ref\Day24_BlizzardBasin.dll
+D:\AdventOfCode_22\Day24_BlizzardBasin\bin\Debug\net6.0\Day24_BlizzardBasin.pdb
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.AssemblyInfo.cs
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.dll
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\ref\Day24_BlizzardBasin.dll
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.pdb
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.genruntimeconfig.cache
+D:\AdventOfCode_22\Day24_BlizzardBasin\obj\Debug\net6.0\Day24_BlizzardBasin.csproj.AssemblyReference.cache

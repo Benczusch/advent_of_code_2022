@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\Day8_TreetopTreeHouse.exe
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\Day8_TreetopTreeHouse.deps.json
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\Day8_TreetopTreeHouse.runtimeconfig.json
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\Day8_TreetopTreeHouse.dll
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\ref\Day8_TreetopTreeHouse.dll
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\Day8_TreetopTreeHouse.pdb
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.AssemblyInfo.cs
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.dll
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\ref\Day8_TreetopTreeHouse.dll
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.pdb
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\obj\Debug\net6.0\Day8_TreetopTreeHouse.genruntimeconfig.cache
+D:\AdventOfCode_22\Day8_TreetopTreeHouse\bin\Debug\net6.0\testInput.txt

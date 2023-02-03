@@ -1,0 +1,17 @@
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\Day7_NoSpaceLeftOnDevice.exe
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\input.txt
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\testInput.txt
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\Day7_NoSpaceLeftOnDevice.deps.json
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\Day7_NoSpaceLeftOnDevice.runtimeconfig.json
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\Day7_NoSpaceLeftOnDevice.dll
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\ref\Day7_NoSpaceLeftOnDevice.dll
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\bin\Debug\net6.0\Day7_NoSpaceLeftOnDevice.pdb
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.csproj.AssemblyReference.cache
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.GeneratedMSBuildEditorConfig.editorconfig
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.AssemblyInfoInputs.cache
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.AssemblyInfo.cs
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.csproj.CoreCompileInputs.cache
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.dll
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\ref\Day7_NoSpaceLeftOnDevice.dll
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.pdb
+D:\AdventOfCode_22\Day7_NoSpaceLeftOnDevice\obj\Debug\net6.0\Day7_NoSpaceLeftOnDevice.genruntimeconfig.cache

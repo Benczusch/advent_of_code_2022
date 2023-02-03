@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day9_RopeBridge/1.0.0": {
+        "runtime": {
+          "Day9_RopeBridge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day9_RopeBridge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
